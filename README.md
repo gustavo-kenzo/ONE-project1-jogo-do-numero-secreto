@@ -24,4 +24,4 @@ Além disso, o jogo:
 
 ## ▶️ Como executar
 
-
+https://gustavo-kenzo.github.io/ONE-project1-jogo-do-numero-secreto/
